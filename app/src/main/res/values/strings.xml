@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Android_CheckBox_SnackBar</string>
+    <string name="hint_edit_text">Поле ввода информации</string>
+    <string name="save_data_button">Сохранить данные</string>
+    <string name="delete_data_button">Удалить данные</string>
+    <string name="title_text_view">Поле вывода информации</string>
 </resources>
